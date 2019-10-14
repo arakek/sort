@@ -5,5 +5,5 @@ available:
   -bubble sort (js).
 
 future:
-  -quicksort (??)
+  -quicksort (??),
   -heapsort (??)
